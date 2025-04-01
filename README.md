@@ -1,2 +1,2 @@
 # AITravelAgent
-your ai agent
+your ai travel agent
